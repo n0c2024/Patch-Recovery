@@ -6,10 +6,10 @@ on:
       RECOVERY_URL:
         description: 'RECOVERY URL'
         required: true
-        default: 'https://file.io/2EFknrk3WCH2'
+        default: 'https://file.io/6S7I7oZbUKz0'
 
 env:
-  RECOVERY_URL: https://file.io/2EFknrk3WCH2
+  RECOVERY_URL: https://file.io/6S7I7oZbUKz0
 
 jobs:
   build:
