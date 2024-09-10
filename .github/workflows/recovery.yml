@@ -9,7 +9,7 @@ on:
         default: 'https://file.io/2EFknrk3WCH2'
 
 env:
-  RECOVERY_URL: https://oshi.at/Rpjg
+  RECOVERY_URL: https://oshi.at/
 
 jobs:
   build:
